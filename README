@@ -1,6 +1,9 @@
-## INPLACE IMAGE RESIZER ##
-É uma utilitário para redimensionar imagens dentro de uma pasta.
-Ele redimensiona todas as imagens de uma dada pasta e salta as novas imagens na mesma pasta.
+## INPLACE IMAGE RESIZER (imgrzr) ##
+Is a python based util that resizes images from a given directory a place it back
+to the same directory.
+
+É uma utilitário, feito em python, para redimensionar imagens dentro de uma pasta.
+Ele redimensiona todas as imagens de uma dada pasta e salva as novas imagens na mesma pasta.
 
 ## MODO DE USAR ##
 Todos os parâmetros são opcionais:
