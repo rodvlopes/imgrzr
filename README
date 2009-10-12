@@ -1,0 +1,24 @@
+## INPLACE IMAGE RESIZER ##
+É uma utilitário para redimensionar imagens dentro de uma pasta.
+Ele redimensiona todas as imagens de uma dada pasta e salta as novas imagens na mesma pasta.
+
+## MODO DE USAR ##
+Todos os parâmetros são opcionais:
+
+Primeiro parêmtro: Diretório onde se encontram os arquivos *.JPG e *.jpg. Padrão: atual
+Segundo parâmetro: Fator de divisão. Padrão: 2
+Terceiro parâmtro: prefixo que será adicionado a fato para não sobrescrever o original. Padrão: -rzd
+
+## INSTALAÇÃO ##
+Clone o projeto do github para uma pasta de sua preferência.
+Crie um link simbólico em /usr/local/bin para o arquivo resize.py
+Certifique-se de que o arquivo resize.py tem permissão de execução.
+
+## DICA ##
+Crei um laucher no seu desktop para usar a ferramenta graficamente, dragging and dropping.
+Após criado o laucher, você poderá arrastar a pasta que contém as imagens a serem redimensiondas
+para cima do laucher e eles fará todo o processo.
+
+
+Autor: Rodrigo Lopes
+rodvlopes @T gmail 
